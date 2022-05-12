@@ -4,11 +4,9 @@ A python script to check some of the streaming channels.
 
 v1 - just checks the number of segments
 
---
-
 ## Notes
 
-This script needs two additiona files:
+This script needs two additional files:
 
 channels.txt
 urls,py
